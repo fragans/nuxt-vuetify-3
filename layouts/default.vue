@@ -29,7 +29,6 @@
         </v-responsive>
       </v-container>
     </v-app-bar>
-
     <slot></slot>
   </v-app>
 </template>
